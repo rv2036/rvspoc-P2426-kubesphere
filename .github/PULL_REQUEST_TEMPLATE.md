@@ -1,62 +1,16 @@
-<!-- Thanks for sending a pull request! Here are some tips for you:
+<!-- 请在以上位置添加 Pull request 描述 -->
+<!-- Please add Pull request description above -->
 
-1. If you want **faster** PR reviews, read how: https://github.com/kubesphere/community/blob/master/developer-guide/development/the-pr-author-guide-to-getting-through-code-review.md
-2. In case you want to know how your PR got reviewed, read: https://github.com/kubesphere/community/blob/master/developer-guide/development/code-review-guide.md
-3. Here are some coding convetions followed by KubeSphere community: https://github.com/kubesphere/community/blob/master/developer-guide/development/coding-conventions.md
--->
+---
 
-### What type of PR is this?
-<!-- 
-Add one of the following kinds:
-/kind bug
-/kind cleanup
-/kind documentation
-/kind feature
-/kind design
+请确认勾选以下复选框，声明本人已知悉对应的提交要求。
+(Please make sure to check the following box to declare that I am aware of the corresponding submission requirements.)
 
-Optionally add one or more of the following kinds if applicable:
-/kind api-change
-/kind deprecation
-/kind failing-test
-/kind flake
-/kind regression
--->
+- [ ] 本人已完整阅读并确认同意了本赛题的最新提交要求
+      (I have read in full and confirm that I agree to the latest Submission Requirements for this challenge),
+      [本赛题最新提交要求(The latest Submission Requirements)](https://rvspoc.org/P2426/#提交说明)
 
 
-### What this PR does / why we need it:
+RISC-V 软件移植及优化锦标赛
 
-### Which issue(s) this PR fixes:
-<!--
-Usage: `Fixes #<issue number>`, or `Fixes (paste link of issue)`.
-_If PR is about `failing-tests or flakes`, please post the related issues/tests in a comment and do not use `Fixes`_*
--->
-Fixes #
-
-### Special notes for reviewers:
-```
-```
-
-### Does this PR introduced a user-facing change?
-<!--
-If no, just write "None" in the release-note block below.
-If yes, a release note is required:
-Enter your extended release note in the block below. If the PR requires additional action from users switching to the new release, include the string "action required".
-
-For more information on release notes see: https://github.com/kubernetes/community/blob/master/contributors/guide/release-notes.md
--->
-```release-note
-
-```
-
-### Additional documentation, usage docs, etc.:
-<!--
-This section can be blank if this pull request does not require a release note.
-Please use the following format for linking documentation or pass the
-section below:
-- [KEP]: <link>
-- [Usage]: <link>
-- [Other doc]: <link>
--->
-```docs
-
-```
+RISC-V Software Porting and Optimization Championship
